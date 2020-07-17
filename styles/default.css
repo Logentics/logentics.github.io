@@ -1,0 +1,43 @@
+html {
+	min-height: 100%;
+	position: relative;
+}
+
+body {
+	font-family: 'Arimo', sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	overflow: hidden;
+}
+
+h1 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.content {
+	height: 100%;
+}
+
+.align-center {
+	margin: 0 auto;
+
+}
+
+.icons {
+	color: DodgerBlue;
+	position: absolute;
+	width: 100%;
+	padding: 10% 0;
+}
+
+footer {
+	position: absolute;
+	bottom: 1em;
+	width: 100%;
+}
